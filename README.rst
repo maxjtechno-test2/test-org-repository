@@ -4,7 +4,7 @@ History v 1.0b
 -----------
 Description
 -----------
-Nothing to say yet
+I have something to say !
 
 --------
 Features
